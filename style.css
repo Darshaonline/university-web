@@ -351,9 +351,9 @@ h3{
 }
 
 .footer h4{
-    margin-bottom: 25px;
-    margin-top: 20px;
-    font-weight: 600;
+    color: #fff;
+    margin-bottom: 40px;
+    padding: 0;
 }
 
 .footer{margin: 100px auto;
